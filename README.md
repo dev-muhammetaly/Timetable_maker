@@ -20,10 +20,10 @@ A modern, cross-platform Flutter application designed to simplify schedule manag
 
 ### Installation
 
-1. **Clone the repository:**
+2. **Clone the repository:**
    ```bash
-   git clone https://github.com/dev-muhammetaly/Timetable_maker.git
-   cd Timetable_maker
+   git clone https://github.com/dev-muhammetaly/UniPlan.git
+   cd UniPlan
    ```
 
 2. **Install dependencies:**

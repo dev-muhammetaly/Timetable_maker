@@ -1,4 +1,4 @@
-package com.example.timetable_maker
+package com.muhammetaly.uniplan
 
 import io.flutter.embedding.android.FlutterActivity
 

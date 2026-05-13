@@ -3,8 +3,8 @@ import 'dart:io';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:timetable_maker/services/claude_service.dart';
-import 'package:timetable_maker/services/storage_service.dart';
+import 'package:uniplan/services/claude_service.dart';
+import 'package:uniplan/services/storage_service.dart';
 
 class ScannerScreen extends StatefulWidget {
   const ScannerScreen({super.key});
